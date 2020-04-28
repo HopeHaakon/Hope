@@ -1,0 +1,103 @@
+body {
+    background-image: url(bussen.jpg);
+    background-size: cover;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 40px;
+    color: rgb(68, 72, 138);
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(68, 72, 138);
+    text-align: center;
+}
+
+
+#fredrik:hover {
+    transform: scale(1.1) ;
+    transition: 2s;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+
+}
+
+#truls:hover {
+    transform: scale(1.1) ;
+    transition: 2s;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+
+}
+
+#forside:hover {
+    transform: scale(1.1) ;
+    transition: 2s;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+
+}
+
+#content {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 10px;
+    
+}
+p { font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color:black;
+    background-image: url(glassgate.jpg);
+
+   
+}
+a {
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+
+}
+
+#vg1:hover {
+    transform: scale(1.1) ;
+    transition: 2s;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+
+}#vg2:hover {
+    transform: scale(1.1) ;
+    transition: 2s;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+
+}
+
+#vg3:hover {
+    transform: scale(1.1) ;
+    transition: 2s;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 5px;
+
+}
+
+#vg2 {
+    height: 225px;
+}
+#vg3{
+    height: 225px;
+}
+h3, h4, h5 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: lightpink;
+}
+
+img {
+    margin: auto;
+    width: 400px;
+}
