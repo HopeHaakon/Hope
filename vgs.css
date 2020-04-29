@@ -128,6 +128,7 @@ input {
     transition: 2s;
     box-shadow: 10px 5px 5px black;
     border-radius: 5px;
+    height: auto;
 
 }
 #søknad {
