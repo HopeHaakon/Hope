@@ -25,6 +25,10 @@ h2:hover {
 
 }
 
+#vg1 #vg2 #vg3  {
+    text-align: center;
+}
+
 h2 {
     font-family: sans-serif;
     font-size: 30px;
@@ -79,7 +83,8 @@ a {
     box-shadow: 10px 5px 5px black;
     border-radius: 5px;
 
-}#vg2:hover {
+}
+#vg2:hover {
     transform: scale(1.1) ;
     transition: 2s;
     box-shadow: 10px 5px 5px black;
