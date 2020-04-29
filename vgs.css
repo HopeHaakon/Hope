@@ -70,14 +70,16 @@ h2 {
     gap: 10px;
     
 }
-
-   
-
 a {
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
+    text-align: center;
+}
+   
 
+a > img {
+    height: 225px;
 }
 
 #vg1:hover {
@@ -103,11 +105,7 @@ a {
 
 }
 
-#vg2 {
-    height: 225px;
-}
-#vg3{
-    height: 225px;
+
 }
 h3, h4, h5 {
     text-align: center;
