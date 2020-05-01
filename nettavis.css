@@ -41,6 +41,13 @@ a, div {
 .op {
     padding: 0 16px;
     background-color: transparent;
+    font-family: fantasy;
+    color: white;
+}
+#s {
+    color: white;
+    background-color: crimson;
+    font-size: 20px;
 }
 
 
