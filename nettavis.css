@@ -37,6 +37,11 @@ nav {
     grid-template-columns: auto repeat(4, 1fr);
     align-items: center;
     margin-bottom: 20px;
+    background-color: white;
+    color:crimson;
+    text-align: center;
+}
+
     
 }
 
@@ -73,54 +78,54 @@ header {
 
 
 
-#tg, #af, #kultur, #kjøp {
-    background-color: cornsilk;
+/* #tg, #af, #kultur, #kjøp {
+    background-color: white;
     color:crimson;
-    border-radius: 5px;
-}
+    text-align: center;
+} */
 
 #kultur:hover { background-color: crimson;
-    color: cornsilk;
+    color: white;
 }
 
 #kjøp:hover { background-color: crimson;
-    color: cornsilk;
+    color: white;
 }
 
 
 
 #tg:hover { 
     background-color: crimson;
-    color: cornsilk;  }
+    color: white;  }
 
 #af:hover {
     background-color: crimson;
-    color: cornsilk; }
+    color: white; }
 
 
 #coronanews {
     font-size: 60px;
     color: crimson;
-    background-color: cornsilk;
-    border-radius: 5px;
+    background-color: white;
+    padding: 0 16px;
 }
 
 
 #coronanews:hover {
-    color: cornsilk;
+    color: white;
     background-color: crimson;
 }
 
 #sendinn {
     font-size: 30px;
-    color: cornsilk;
+    color: white;
     background-color: crimson;
 }
 
 
 #sendinn:hover {
     color: crimson;
-    background-color: cornsilk;
+    background-color: white;
 }
 
 
