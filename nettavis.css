@@ -150,8 +150,11 @@ header {
     background-color: white;
     color: crimson;
     font-size: 20px;
+    padding: 2px 10px;
  }
-
+#dato {
+    padding: 2px 10px;
+}
 
 
 
