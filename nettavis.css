@@ -46,8 +46,8 @@ a, div {
 }
 
 #land {
-    color: white;
-    background-color: crimson;
+    background-color: white;
+    color: crimson;
     font-size: 20px;
 
 }
@@ -135,11 +135,6 @@ header {
     background-color: white;
 }
 
-#sendinn {
-    font-size: 30px;
-    color: white;
-    background-color: crimson;
-}
 
 
 #sendinn:hover {
@@ -151,10 +146,10 @@ header {
 #konkh1 {
     font-size: 100px;
 }
- #dato {
-     font-family: fantasy;
-     font-size: 10px;
-     color: lightblue;
+ .j {
+    background-color: white;
+    color: crimson;
+    font-size: 20px;
  }
 
 
