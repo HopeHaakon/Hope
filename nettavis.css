@@ -2,7 +2,7 @@ body {
     background-color:lightgray;
 
 }
-main{
+main {
     max-width: 970px;
     margin: auto;
     display: grid;
@@ -11,6 +11,8 @@ main{
     background-color: whitesmoke;
     
 }
+
+
 a, div {
     background-color: white;
     text-decoration: none;
@@ -41,6 +43,7 @@ nav {
 img, video {
     width: 100%;
 }
+
 #konk {
 background-image: url(kadda.jpg);
 background-size: cover;
@@ -101,6 +104,8 @@ header {
     background-color: cornsilk;
     border-radius: 5px;
 }
+
+
 #coronanews:hover {
     color: cornsilk;
     background-color: crimson;
@@ -110,12 +115,15 @@ header {
     font-size: 30px;
     color: cornsilk;
     background-color: crimson;
-
 }
+
+
 #sendinn:hover {
     color: crimson;
     background-color: cornsilk;
 }
+
+
 #konkh1 {
     font-size: 100px;
 }
