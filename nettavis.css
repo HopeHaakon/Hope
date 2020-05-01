@@ -86,36 +86,36 @@ header {
     text-align: center;
 } */
 
-#kultur:hover { background-color: crimson;
-    color: white;
+#kultur:hover { color: crimson;
+    background-color: white;
 }
 
-#kjøp:hover { background-color: crimson;
-    color: white;
+#kjøp:hover {color: crimson;
+    background-color: white;
 }
 
 
 
 #tg:hover { 
-    background-color: crimson;
-    color: white;  }
+    color: crimson;
+    background-color: white;   }
 
 #af:hover {
-    background-color: crimson;
-    color: white; }
+    color: crimson;
+    background-color: white; }
 
 
 #coronanews {
     font-size: 60px;
-    color: crimson;
-    background-color: white;
+    background-color: crimson;
+    color: white;
     padding: 0 16px;
 }
 
 
 #coronanews:hover {
-    color: white;
-    background-color: crimson;
+    color: crimson;
+    background-color: white;
 }
 
 #sendinn {
