@@ -16,11 +16,14 @@ main {
     display: grid;
     grid-template-columns: repeat(12,1fr);
     gap: 10px;
-    background-color: whitesmoke;
+    
     
     
 }
 
+#graf {
+    height: 400px;
+}
 
 a, div {
     background-color:crimson;
