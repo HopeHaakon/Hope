@@ -2,6 +2,14 @@ body {
     background-color:lightgray;
 
 }
+
+footer {
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    margin-top: 20px;
+
+}
 main {
     max-width: 970px;
     margin: auto;
