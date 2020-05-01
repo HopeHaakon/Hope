@@ -20,7 +20,7 @@ a, div {
 
 #fest {
     max-height: 500px;
-    
+
 }
 
 .op {
@@ -71,30 +71,28 @@ header {
 
 
 #tg, #af, #kultur, #kjøp {
-    background-color: whitesmoke;
-    color: blueviolet;
+    background-color: cornsilk;
+    color:crimson;
     border-radius: 5px;
 }
 
-#kultur:hover { background-color: blueviolet;
-    color: whitesmoke;
+#kultur:hover { background-color: crimson;
+    color: cornsilk;
 }
 
-#kjøp:hover { background-color: blueviolet;
-    color: whitesmoke;
+#kjøp:hover { background-color: crimson;
+    color: cornsilk;
 }
 
 
 
 #tg:hover { 
-    background-color: blueviolet;
-    color: whitesmoke;
-}
+    background-color: crimson;
+    color: cornsilk;  }
 
 #af:hover {
-    background-color: blueviolet;
-    color: whitesmoke;
-}
+    background-color: crimson;
+    color: cornsilk; }
 
 
 #coronanews {
