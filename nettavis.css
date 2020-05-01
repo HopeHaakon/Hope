@@ -86,23 +86,19 @@ header {
     text-align: center;
 } */
 
-#kultur:hover { color: crimson;
-    background-color: white;
+#kultur:hover { color:  lightgrey; ;
 }
 
-#kjøp:hover {color: crimson;
-    background-color: white;
+#kjøp:hover {color:  lightgrey; ;
 }
 
 
 
 #tg:hover { 
-    color: crimson;
-    background-color: white;   }
+    color: lightgrey;  }
 
 #af:hover {
-    color: crimson;
-    background-color: white; }
+    color: lightgrey;  }
 
 
 #coronanews {
