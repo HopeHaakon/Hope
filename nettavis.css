@@ -15,9 +15,10 @@ main {
 
 
 a, div {
-    background-color: white;
+    background-color:crimson;
     text-decoration: none;
     font-family: fantasy;
+    color: white;
     
 }
 
