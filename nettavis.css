@@ -9,6 +9,7 @@ main{
     grid-template-columns: repeat(12,1fr);
     gap: 10px;
     background-color: whitesmoke;
+    
 }
 a, div {
     background-color: white;
