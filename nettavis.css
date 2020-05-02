@@ -60,7 +60,7 @@ nav {
     align-items: center;
     margin-bottom: 20px;
     
-    color:crimson; 
+ 
     text-align: center;
     padding-right: 16px;
 }
@@ -84,28 +84,7 @@ background-color: crimson;
 }
 
 
-/*header > * {  
-margin-right: 100px;
-display: inline;
-}
 
-
-
-header {
-    font-size: 40px;
-    font-family: fantasy;
-    color: crimson;
-    white-space: nowrap; 
-     }
-     */
-
-
-
-/* #tg, #af, #kultur, #kjøp {
-    background-color: white;
-    color:crimson;
-    text-align: center;
-} */
 
 #kultur:hover { color: lightskyblue;  ;
 }
