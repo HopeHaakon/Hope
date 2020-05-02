@@ -33,7 +33,7 @@ main {
 #kjøp:hover {
     color:  lightskyblue; ;
     }
-    
+
 #tg:hover { 
     color: lightskyblue; ;  
     }
@@ -45,7 +45,7 @@ main {
 a, div {
     background-color:crimson;
     text-decoration: none;
-    font-family: fantasy;
+    font-family: 'Noto Serif', serif;
     color: white;
     }
 
@@ -56,7 +56,7 @@ a, div {
 .op {
     padding: 0 16px;
     background-color: transparent;
-    font-family: fantasy;
+    font-family: 'Noto Serif', serif;
     color: white;
     }
 
